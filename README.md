@@ -80,13 +80,6 @@ A simple yet effective baseline model to predict continuous values.
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
-   cd car-price-prediction
-\
 📚 Conclusion
 This project demonstrates how basic regression techniques combined with proper feature engineering and preprocessing can be used to create a reliable car price prediction model.
 
